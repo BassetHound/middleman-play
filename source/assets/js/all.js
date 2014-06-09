@@ -1,5 +1,5 @@
 // Libs
-// require libs/vendor_script.js
+//= require libs/jquery.js
 
 // Src
 //= require_tree ./src
